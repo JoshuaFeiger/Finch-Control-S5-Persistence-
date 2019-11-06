@@ -38,7 +38,7 @@ namespace FinchControl_Starter
             // Creation Date: 09/25/2019
             // Last Modified Date: 11/06/2019
             //
-            // **************************************************
+            // *************************************************
 
             // Create (instantiate) a new Finch object.
             Finch FinchRobot;
